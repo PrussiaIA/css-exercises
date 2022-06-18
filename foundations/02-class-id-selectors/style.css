@@ -1,0 +1,21 @@
+/* styles sheet */
+
+.odd {
+    background-color: #FFAAAA;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#two {
+    color: #00EEFF;
+    font-size: 36px;
+}
+
+#with-style {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #33FF88;
+    font-size: 24px;
+    font-weight: bold;
+}
