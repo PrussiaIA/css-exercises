@@ -1,0 +1,16 @@
+/* Style Sheet */
+
+.pick-me,
+.no-me {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.pick-me {
+    background-color: #000000;
+    color: #FFFFFF
+}
+
+.no-me {
+    background-color: #FFFF00;
+}
